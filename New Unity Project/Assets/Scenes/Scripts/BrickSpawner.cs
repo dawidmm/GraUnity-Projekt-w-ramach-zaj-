@@ -12,7 +12,7 @@ public class BrickSpawner : MonoBehaviour
     }
     void SpawnBrick()
     {
-        int i = Random.Range(-2, 3);
+        int i = Random.Range(-1, 3);
         int y = Random.Range(1, 20);
         if (y == 1)
         {

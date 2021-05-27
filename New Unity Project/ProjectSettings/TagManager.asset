@@ -14,9 +14,9 @@ TagManager:
   - 
   - Water
   - UI
-  - score
-  - 
-  - 
+  - canvas
+  - house
+  - object
   - 
   - 
   - 
@@ -41,6 +41,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 3259429759
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: l3
+    uniqueID: 1983180703
     locked: 0

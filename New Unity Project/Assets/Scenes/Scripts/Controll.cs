@@ -24,7 +24,7 @@ public class Controll : MonoBehaviour
     }
     public void MoveRight()
     {
-        if(velocity.x < 1)
+        if(velocity.x < 2)
             velocity += Vector3.right;
     }
 }
